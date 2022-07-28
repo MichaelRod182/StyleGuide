@@ -1,0 +1,89 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+    Font-weight: bold;
+    Font-size: 26px;
+}
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+}
+
+p {
+    font-weight: 400;
+    font-size: 14px;
+}
+
+#colors,
+#fonts,
+#styles {
+    border: 2px solid gray;
+    margin: 10px;
+    padding-left: 10px;
+    text-align: justify;
+}
+
+.color {
+    display: inline-block;
+    border: 1px solid black;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    line-height: 150%;
+    font-family: "Work Sans";
+}
+
+#pink {
+    background-color: #ff00f6
+}
+
+#purple {
+    background-color: #b400ff
+}
+
+#blue {
+    background-color: #3c00ff;
+}
+
+#yellow {
+    background-color: #fff600;
+}
+
+#mont {
+    font-family: 'Montserrat';
+}
+
+#oswald {
+    font-family: 'Oswald';
+}
+
+#work {
+    font-family: "Work Sans";
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.name {
+    text-decoration: underline;
+}
+
+li {
+    font-family: "work sans";
+}
+
+#paragraph {
+    font-family: "work sans";
+    font-weight: 400;
+    font-size: 14px;
+}
